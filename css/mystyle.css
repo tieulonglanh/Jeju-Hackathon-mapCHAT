@@ -138,3 +138,33 @@
   top: 700px;
   left: 1100px;
 }
+.get-eco-buddy-on-mess {
+  position: absolute;
+	height: 17px;
+	width: 242px;
+	color: #39393A;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 15px;
+	letter-spacing: 1px;
+	line-height: 17px;
+  top:958;
+  left: 945px;
+}
+.messenger {
+  position: absolute;
+	height: 105px;
+	width: 106px;
+  top:847px;
+  left: 1013px;
+}
+.learn-more-here {
+  position: absolute;
+	height: 17px;
+	width: 140px;
+	color: #39393A;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 15px;
+	line-height: 17px;
+  top: 39px;
+  left: 1258px;
+}
