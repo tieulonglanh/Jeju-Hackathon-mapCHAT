@@ -42,9 +42,43 @@
   margin-right: 5.8%;
   margin-top: 3.8%;
 }
+.img_cover
+{
+  width: 10%;
+  height: 10%;
+}
 .oval-3{
-	max-height: 15.7%;
-	max-width: 11.3%;
-  margin-right: 36.5%;
+	max-height: 6.7%;
+	max-width: 19.4%;
+  margin-right: 5.8%;
+  margin-top: 3.8%;
   float: right;
+}
+.ecobuddychatbot{
+	height: 6.7%;
+	width: 56.6%;
+  margin-left: 20.6%;
+  margin-top:-2%;
+  float: left;
+}
+.cost-effective-livin{
+	color: #39393A;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 15%;
+	letter-spacing: 1%;
+	line-height: 45px;
+  margin-left: 20.6%;
+  float: left;
+  margin-top: 3%;
+}
+.ecobuddy-chat-bot-en {
+	color: #898989;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 10%;
+	letter-spacing: 1%;
+	line-height: 15%;
+  margin-left: 20.6%;
+  margin-right: 30%;
+  float: left;
+  margin-top: 3%;
 }
