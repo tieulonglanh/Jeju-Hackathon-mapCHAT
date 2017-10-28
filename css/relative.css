@@ -1,33 +1,28 @@
-.iphone-moc-kup{
+.rectangle-3{
   position: absolute;
-	height: 1024px;
-	width: 1440px;
-  background: #ffffff;
+	width: 100%;
+  height: 50%;
 }
-.rectangle-3 {
+.eco-rect{
   position: absolute;
-	height: 1023px;
-	width: 720px;
-	background: linear-gradient(225deg, #D4FC79 0%, #D4FC79 100%);
+  width: 50%;
+  height: auto;
 }
-.ecobuddy-help-me-li {
+.data_graph
+{
   position: absolute;
-	height: 165px;
-	width: 482px;
-	color: #898989;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 15px;
-	letter-spacing: 1px;
-	line-height: 33px;
+  width: 46%;
+  height: auto;
+  top: 41.6%;
+  left: 3%;
+  bottom: 3%;
 }
 .lighting {
   position: absolute;
-	height: 881px;
-	width: 428px;
-  top: 71px;
-  left: 146px;
-  bottom: 71px;
-  right: 146px;
+	height: auto;
+	width: 29.7%;
+  top: 7%;
+  left: 10%;
 }
 .save-money-icon {
   position: absolute;
