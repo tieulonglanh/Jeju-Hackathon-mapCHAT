@@ -13,13 +13,22 @@
   position: absolute;
   width: 50%;
   height: auto;
-  justify-content: center;
+  flex-direction: column;
+}
+.data_tmp
+{
+  flex-grow: : 1;
+  background: #ff0000;
+}
+.data_tmp2
+{
+  flex-grow: : 20;
+  background: #ffff00;
 }
 .data_graph
 {
-  position: absolute;
-  width: 92%;
-  height: auto;
+   -webkit-flex:558;
+  flex: 568;
   top: 20%
 }
 .lighting {
@@ -165,4 +174,13 @@
 	line-height: 17px;
   top: 39px;
   left: 1258px;
+}
+.chat_box
+{
+  position: absolute;
+  width:500px;
+  height: 500px;
+  top:500px;
+  left: 50px;
+  background: #000000;
 }
