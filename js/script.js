@@ -2,7 +2,7 @@
 
 function hello
 {
-	console.log('hello');
+	document.getElementById('h1').css;
 }
 
 </script>
