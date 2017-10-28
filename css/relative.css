@@ -1,177 +1,37 @@
-.rectangle-3{
-  position: absolute;
-	width: 100%;
-  height: 50%;
+.rect-content {
+	width: 50%;
+  height: 120%;
+	background: linear-gradient(225deg, #D4FC79 0%, #D4FC79 100%);
 }
-.eco-rect{
-  position: absolute;
-  width: 50%;
-  height: auto;
+img
+{
+  max-width: 100%;
 }
-.eco-rect2{
+.absolute-data
+{
+  width: 100%;
+  height: 100%;
+}
+.graph-data-top
+{
+  width: 100%;
+  height: 41.7%;
+}
+.graph-data
+{
   display: flex;
-  position: absolute;
-  width: 50%;
+  height: 55.4%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.graph-data-bottom
+{
+  height: 2.9%;
+  width: 100%;
+}
+.graph-data-real
+{
+  width: 96%;
   height: auto;
-  flex-direction: column;
-}
-.data_tmp
-{
-  flex-grow: : 1;
-  background: #ff0000;
-}
-.data_tmp2
-{
-  flex-grow: : 20;
-  background: #ffff00;
-}
-.data_graph
-{
-   -webkit-flex:558;
-  flex: 568;
-  top: 20%
-}
-.lighting {
-  position: absolute;
-	height: auto;
-	width: 59.4%;
-}
-.save-money-icon {
-  position: absolute;
-	height: 62px;
-	width: 60px;
-  left: 688.13px;
-  bottom: 522.13px;
-}
-.data{
-  position: absolute;
-	height: 513.9px;
-	width: 648px;
-  left: 28px;
-  top: 480px;
-}
-.oval {
-  position: absolute;
-  left:28px;
-  top: 426px;
-}
-.s-saved {
-	height: 69px;
-	width: 66px;
-	color: #39393A;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 20px;
-	letter-spacing: 1px;
-	line-height: 23px;
-	text-align: center;
-	text-shadow: 5px 5px 6px 0 rgba(0,0,0,0.5);
-  position: absolute;
-  top: 426px;
-  left: 616px;
-}
-.tracking {
-  position: absolute;
-  	height: 60px;
-  	width: 60px;
-  top: 893;
-  left: 690px;
-}
-.ecobuddychatbot {
-  position: absolute;
-	height: 44px;
-	width: 390px;
-	color: #39393A;
-	font-family: Batang;
-	font-size: 20px;
-	letter-spacing: 7px;
-	line-height: 23px;
-  top:316px;
-  left: 806px;
-
-}
-.logo-2 {
-  position: absolute;
-	height: 76px;
-	width: 76px;
-  top:251px;
-  left:1098px;
-}
-.cost-effective-livin {
-  position: absolute;
-	height: 40px;
-	width: 450px;
-	color: #39393A;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 25px;
-	letter-spacing: 2px;
-	line-height: 45px;
-  top: 404px;
-  left: 806px;
-
-}
-.ecobuddy-chat-bot-en {
-  position: absolute;
-	height: 66px;
-	width: 592px;
-	color: #898989;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 20px;
-	letter-spacing: 1px;
-	line-height: 33px;
-  top:468px;
-  left: 806px;
-}
-.ecobuddy-help-me-li {
-  position: absolute;
-	height: 165px;
-	width: 482px;
-	color: #898989;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 15px;
-	letter-spacing: 1px;
-	line-height: 33px;
-  top: 564px;
-  left: 824px;
-}
-.ecobuddy-help-me-li2 {
-  position: absolute;
-	height: 165px;
-	width: 482px;
-	color: #898989;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 15px;
-	letter-spacing: 1px;
-	line-height: 33px;
-  top: 700px;
-  left: 1100px;
-}
-.get-eco-buddy-on-mess {
-  position: absolute;
-	height: 17px;
-	width: 242px;
-	color: #39393A;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 15px;
-	letter-spacing: 1px;
-	line-height: 17px;
-  top:958;
-  left: 945px;
-}
-.messenger {
-  position: absolute;
-	height: 105px;
-	width: 106px;
-  top:847px;
-  left: 1013px;
-}
-.learn-more-here {
-  position: absolute;
-	height: 17px;
-	width: 140px;
-	color: #39393A;
-	font-family: "Arial Rounded MT Bold";
-	font-size: 15px;
-	line-height: 17px;
-  top: 39px;
-  left: 1258px;
 }
