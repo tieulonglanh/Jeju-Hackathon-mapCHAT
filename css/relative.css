@@ -175,12 +175,3 @@
   top: 39px;
   left: 1258px;
 }
-.chat_box
-{
-  position: absolute;
-  width:500px;
-  height: 500px;
-  top:500px;
-  left: 50px;
-  background: #000000;
-}

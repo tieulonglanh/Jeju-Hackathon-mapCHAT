@@ -15,7 +15,6 @@ echo'
 
       <img class="oval" src="./img/data.png"/>
       <img class="lighting" src="./img/iphone MocKup.png"/>
-      <img src="./img/Tracking.png" class="oval"/>
       <img src="./img/Save Money Icon.png" class="save-money-icon"/>
       <img src="./img/Tracking Icon.png" class="tracking"/>
       <img class="ecobuddychatbot" src="./img/ecobuddy(chatbot).png"/>
