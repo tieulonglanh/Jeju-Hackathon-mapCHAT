@@ -168,6 +168,8 @@
   top: 39px;
   left: 1258px;
 }
+<<<<<<< HEAD
+=======
 .chat_box
 {
   display: flex;
@@ -183,3 +185,4 @@
   font-size: 25pt;
   flex-direction: column;
 }
+>>>>>>> ec82d8b405793d113d81881b1685830d50ef5ba0
