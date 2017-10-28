@@ -1,0 +1,140 @@
+.iphone-moc-kup{
+  position: absolute;
+	height: 1024px;
+	width: 1440px;
+  background: #ffffff;
+}
+.rectangle-3 {
+  position: absolute;
+	height: 1023px;
+	width: 720px;
+	background: linear-gradient(225deg, #D4FC79 0%, #D4FC79 100%);
+}
+.ecobuddy-help-me-li {
+  position: absolute;
+	height: 165px;
+	width: 482px;
+	color: #898989;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 15px;
+	letter-spacing: 1px;
+	line-height: 33px;
+}
+.lighting {
+  position: absolute;
+	height: 881px;
+	width: 428px;
+  top: 71px;
+  left: 146px;
+  bottom: 71px;
+  right: 146px;
+}
+.save-money-icon {
+  position: absolute;
+	height: 62px;
+	width: 60px;
+  left: 688.13px;
+  bottom: 522.13px;
+}
+.data{
+  position: absolute;
+	height: 513.9px;
+	width: 648px;
+  left: 28px;
+  top: 480px;
+}
+.oval {
+  position: absolute;
+  left:28px;
+  top: 426px;
+}
+.s-saved {
+	height: 69px;
+	width: 66px;
+	color: #39393A;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 20px;
+	letter-spacing: 1px;
+	line-height: 23px;
+	text-align: center;
+	text-shadow: 5px 5px 6px 0 rgba(0,0,0,0.5);
+  position: absolute;
+  top: 426px;
+  left: 616px;
+}
+.tracking {
+  position: absolute;
+  	height: 60px;
+  	width: 60px;
+  top: 893;
+  left: 690px;
+}
+.ecobuddychatbot {
+  position: absolute;
+	height: 44px;
+	width: 390px;
+	color: #39393A;
+	font-family: Batang;
+	font-size: 20px;
+	letter-spacing: 7px;
+	line-height: 23px;
+  top:316px;
+  left: 806px;
+
+}
+.logo-2 {
+  position: absolute;
+	height: 76px;
+	width: 76px;
+  top:251px;
+  left:1098px;
+}
+.cost-effective-livin {
+  position: absolute;
+	height: 40px;
+	width: 450px;
+	color: #39393A;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 25px;
+	letter-spacing: 2px;
+	line-height: 45px;
+  top: 404px;
+  left: 806px;
+
+}
+.ecobuddy-chat-bot-en {
+  position: absolute;
+	height: 66px;
+	width: 592px;
+	color: #898989;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 20px;
+	letter-spacing: 1px;
+	line-height: 33px;
+  top:468px;
+  left: 806px;
+}
+.ecobuddy-help-me-li {
+  position: absolute;
+	height: 165px;
+	width: 482px;
+	color: #898989;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 15px;
+	letter-spacing: 1px;
+	line-height: 33px;
+  top: 564px;
+  left: 824px;
+}
+.ecobuddy-help-me-li2 {
+  position: absolute;
+	height: 165px;
+	width: 482px;
+	color: #898989;
+	font-family: "Arial Rounded MT Bold";
+	font-size: 15px;
+	letter-spacing: 1px;
+	line-height: 33px;
+  top: 700px;
+  left: 1100px;
+}
