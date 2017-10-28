@@ -1,6 +1,6 @@
 .rectangle-11 {
-	height: 100%;
-	width: 100%;
+	height: 1024px;
+	width: 1440px;
 	background-color: #FFFFFF;
 }
 
@@ -8,7 +8,7 @@
   position:absolute;
 	height: 99.9%;
 	width: 74.58%;
-  left: 366px;
+  left: 321.48px;
 
 	background: linear-gradient(180.07deg, #D4FC79 0%, #D4FC79 100%);
 }
@@ -17,23 +17,58 @@
   position: absolute;
 	height: 9.57%;
 	width: 25.56%;
-  top: 2.25%;
-  left: 1.81%;
+  top: 23px;
+  left: 26px;
 }
 
 .iphone-mockup {
   position: absolute;
 	height: 777px;
 	width: 382px;
-  top:16.41%;
-  left: 1.32%;
-  bottom : 7.71%;
+  top:168px;
+  left: 19px;
+  bottom : 79px;
+  right: 1039px;
+
 }
 
 .wordings {
   position:absolute;
 	height: 413px;
 	width: 866px;
-  top:12.99%;
-  right:9.86%;
+  top:134px;
+  left:432px;
+  right:142px;
+  bottom: 477px;
+}
+
+.iot {
+  position:absolute;
+	height: 227px;
+	width: 184px;
+  top:568px;
+  left:400px;
+  right:820px;
+  bottom:228px;
+}
+
+.bigdata {
+  position:absolute;
+	height: 227px;
+	width: 184px;
+  top:568px;
+  left:684px;
+  right:539px;
+  bottom:228px;
+}
+
+
+.analytics {
+  position:absolute;
+	height: 227px;
+	width: 184px;
+  top:568px;
+  left:964px;
+  right:820px;
+  bottom:228px;
 }
