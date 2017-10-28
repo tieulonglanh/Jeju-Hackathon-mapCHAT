@@ -1,37 +1,50 @@
-.rect-content {
-	width: 50%;
-  height: 120%;
-	background: linear-gradient(225deg, #D4FC79 0%, #D4FC79 100%);
-}
-img
-{
-  max-width: 100%;
-}
-.absolute-data
+.total-content
 {
   width: 100%;
   height: 100%;
 }
-.graph-data-top
+.left-content
+{
+  width: 50%;
+  height: 100%;
+  background: #ff0000;
+  float: left;
+}
+.right-content
+{
+  width: 50%;
+  margin-left: : 50%;
+  height: 100%;
+  float: right;
+}
+.left-top
+{
+  height: 24.2%;
+  width: 100%;
+  background: #fff000;
+}
+.left-mid
 {
   width: 100%;
-  height: 41.7%;
+  height: 50.4%;
+  background: #ffff00;
 }
-.graph-data
+.left-bottom
 {
-  display: flex;
-  height: 55.4%;
   width: 100%;
-  align-items: center;
-  justify-content: center;
+  height: 25.4%;
+  background: #00ff00;
 }
-.graph-data-bottom
-{
-  height: 2.9%;
-  width: 100%;
+.learn-more-here{
+  max-width: 9.7%;
+  max-height: 1.6%;
+  float: right;
+  margin-right: 5.8%;
+  margin-top: 3.8%;
 }
-.graph-data-real
-{
-  width: 96%;
-  height: auto;
+.oval-3{
+	max-height: 15.7%;
+	max-width: 11.3%;
+  margin-right: 36.5%;
+  float: right;
 }
