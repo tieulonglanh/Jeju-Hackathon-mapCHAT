@@ -8,21 +8,24 @@
   width: 50%;
   height: auto;
 }
+.eco-rect2{
+  display: flex;
+  position: absolute;
+  width: 50%;
+  height: auto;
+  justify-content: center;
+}
 .data_graph
 {
   position: absolute;
-  width: 46%;
+  width: 92%;
   height: auto;
-  top: 41.6%;
-  left: 3%;
-  bottom: 3%;
+  top: 20%
 }
 .lighting {
   position: absolute;
 	height: auto;
-	width: 29.7%;
-  top: 7%;
-  left: 10%;
+	width: 59.4%;
 }
 .save-money-icon {
   position: absolute;
